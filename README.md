@@ -30,3 +30,12 @@ var abc = open()
 2.  現實寶石
 3.  心靈寶石
 4.  ...
+
+----
+## Hi我是Leo
+- hi
+- hihi
+- hihihi
+```python
+print("Hello World")
+```
